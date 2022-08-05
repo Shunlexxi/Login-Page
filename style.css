@@ -10,8 +10,8 @@ body{
     background: rgb(247, 224, 243);
     margin-left: 30%;
     margin-right: 30%;
-    margin-top: 30%;
-    margin-bottom: 30%;
+    margin-top: 15%;
+    margin-bottom: 15%;
     border-radius: 3rem;
 }
 
@@ -45,7 +45,7 @@ button{
     border-radius: 10px;
     border-color: rgb(184, 69, 155);
     margin-top: 20px;
-    padding: 1rem 8rem;
+    padding: 1rem 4rem;
     font-weight: bolder;
 }
 button:hover{
